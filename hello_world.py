@@ -1,2 +1,3 @@
 name = input("What is your name? ")
 print('Hello world from ' + name) #Изменённый комментарий
+
